@@ -1,5 +1,6 @@
 {
     "users": [
+<<<<<<< HEAD
          {
             "id": 1,
             "name": "Svetlan04ka",
@@ -26,4 +27,39 @@
         ]
     
     
+=======
+     {
+         "id": 1,
+        "name": "Svetlan04ka",
+        "slrname": "Oleksienko",
+        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiWsBzbGeGcgH4aso5P1IlJ9RPfioceXM6pQ&s",
+        "balance": 1500
+    },
+    {
+        "id": 2,
+        "name": "Artem",
+        "slrname": "Seleznev",
+        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiWsBzbGeGcgH4aso5P1IlJ9RPfioceXM6pQ&s",
+        "balance": 5790
+    },
+    {
+      "id": 3,
+      "name": "Marina",
+      "surname": "Egyptyan",
+      "photo_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCtDVQKXgYzJmtL8L1GoioGw&psig=AOvVaw2CVSMWvdElVCxgohKuunS4&ust=1764580596787000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLiVgJPFmZEDFQAAAAAdAAAAABAE",
+      "balance": 200
+    }
+        
+    ],
+    "produkts": [
+   {
+    "id": 1,
+    "name": "Apelsinka",
+    "description": "Valencia",
+    "photo_url": "https://www.freshfruitturkey.com/wp-content/uploads/2022/02/valencia.jpg",
+    "gram": 1000,
+    "price": 90 
+   }
+  ]
+>>>>>>> 6c7483cf1baf683f406d4993d5c96cb934536392
 }
