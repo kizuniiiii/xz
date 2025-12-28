@@ -1,33 +1,5 @@
 {
     "users": [
-
-         {
-            "id": 1,
-            "name": "Svetlan04ka",
-            "slrname": "Oleksienko",
-            "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiWsBzbGeGcgH4aso5P1IlJ9RPfioceXM6pQ&s",
-            "balance": 1500
-        },
-        {
-            "id": 2,
-            "name": "Artem",
-            "slrname": "Seleznev",
-            "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiWsBzbGeGcgH4aso5P1IlJ9RPfioceXM6pQ&s",
-            "balance": 5790
-        }],
-
-        "product": [
-            {
-                "id": 4,
-            "name": "Svetka",
-            "slrname": "BlaBlaCar",
-            "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiWsBzbGeGcgH4aso5P1IlJ9RPfioceXM6pQ&s",
-            "balance": 1606
-            }
-        ]
-    
-    
-
      {
          "id": 1,
         "name": "Svetlan04ka",
